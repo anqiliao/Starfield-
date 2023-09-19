@@ -1,5 +1,4 @@
 # Starfield-
 # Link to Design Process Overview
-## Interview Transcript
-### Participant B
+https://github.com/anqiliao/Starfield-.wiki.git
 
