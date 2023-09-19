@@ -1,3 +1,2 @@
 # Starfield-
-Team starfield 
-Link to Design Process Overview
+# Link to Design Process Overview
